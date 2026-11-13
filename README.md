@@ -46,6 +46,6 @@ Qiitaで個人開発や技術検証, 学びの備忘録などをまとめてい�
 ## Latest Qiita Articles
 
 <!-- QIITA-LIST:START -->
-- [Git備忘録 / Git Memo]([https://qiita.com/norder](https://qiita.com/norder/items/dbd47aa128a95d502d11))
-- [Gitignore備忘録 / Gitignore Memo]([https://qiita.com/norder](https://qiita.com/norder/items/07b6af5577a70a5596d9))
+- [gitignore備忘録 / Gignore Memo](https://qiita.com/norder/items/07b6af5577a70a5596d9)
+- [Git備忘録 / Git Memo](https://qiita.com/norder/items/dbd47aa128a95d502d11)
 <!-- QIITA-LIST:END -->
