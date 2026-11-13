@@ -10,7 +10,7 @@
 ## About
 
 - **Interest:** 技術 / 数学 / 心理学 / ミステリ小説 / 疎結合な設計
-- **Env:** `WezTerm` / `Neovim` / `Yazi` / `Startui`
+- **Env:** `WezTerm` / `Neovim` / `Yazi` / `StartuiLauncher`
 
 
 ## Tech Stack
