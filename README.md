@@ -5,7 +5,7 @@
 
 ## URL
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-norder.github.io-2E3440?style=flat-square&logo=githubpages&logoColor=88C0D0)](https://norder.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-norder.github.io-2E3440?style=flat-square&logo=githubpages&logoColor=88C0D0)]([https://norder.github.io](https://norder-lab.github.io/))
 [![Qiita](https://img.shields.io/badge/Qiita-@norder-2E3440?style=flat-square&logo=qiita&logoColor=55C500)](https://qiita.com/norder)
 
 ## About
