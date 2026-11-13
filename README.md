@@ -35,6 +35,13 @@ design     = "疎結合・OSやスペックに依存しないシンプル設計"
 ux         = ["キーボード完結", "Vimキーバインド標準装備", "軽量・高速"]
 next_focus = ["TUI / GUI Tools", "ML × Product"]
 
+[motto]
+words      = [
+  "終わりよければ全て良し",
+  "遠回りくらいが丁度いい",
+  "必要性は発明の母",
+]
+
 [environment]
 terminal   = "WezTerm"
 editor     = "Neovim"
