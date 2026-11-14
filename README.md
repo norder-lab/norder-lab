@@ -49,5 +49,5 @@ main       = ["Rust", "Python", "Java"]
 other      = ["JavaScript", "HTML", "CSS", "SQL", "R", "C"]
 
 [interests]
-topics     = ["技術", "数学", "心理学", "ミステリ小説"]
+topics     = ["技術", "数学", "心理学", "ミステリ小説", "Nord Theme"]
 ```
